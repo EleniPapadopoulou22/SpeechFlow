@@ -84,3 +84,8 @@ SpeechFlow is an Android app that converts spoken language into text and convert
 - The app uses the Android speech recognition API and text-to-speech API.
 - On first launch, onboarding screens appear and are skipped on future launches after completion.
 - Transcriptions are saved locally and shown in the history screen.
+  
+##App preview-Screenshots
+
+  <img width="712" height="547" alt="image" src="https://github.com/user-attachments/assets/16052fcc-8aa5-4f30-bcad-de554bd9e997" />
+
